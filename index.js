@@ -18,7 +18,7 @@ function iLoveTheBeatles(number) {
   var arr = [];
   return Math.random() >= 0.5
   do {
-    array.push()
-    while 
+    arr.push("I love the Beatles!")
+    while (i < 15)
   }
 }
