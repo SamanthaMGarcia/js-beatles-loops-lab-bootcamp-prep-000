@@ -15,10 +15,10 @@ function johnLennonFacts(facts) {
   return moreFacts;
 }
 function iLoveTheBeatles(number) {
-  var arr = [];
+  var arr = []; 
   return Math.random() >= 0.5
   do {
-  arr.push("I love the Beatles!")
+   arr.push("I love the Beatles!") 
    while (i < 15) {
-   } return arr
+    return arr
   }
