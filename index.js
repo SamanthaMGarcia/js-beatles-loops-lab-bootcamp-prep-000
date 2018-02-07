@@ -18,6 +18,6 @@ function iLoveTheBeatles(number) {
   var arr = [];
   return Math.random() >= 0.5
   do {
-    
+    while 
   }
 }
